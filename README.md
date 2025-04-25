@@ -1,5 +1,5 @@
 # CSO-TFG
-Note: This project is protected by a patent ( ZL 2024 1 1958937.X ) and can NOT be used for any commercial purpose.<br>
+Note: This project is partially protected by a patent ( ZL 2024 1 1958937.X ) and can NOT be used for any commercial purpose.<br>
 (1) Software running environment is Python 3.8, anaconda with Pycharm 2022.<br>
 (2) The hardware environment is Vivado 2019.<br>
 (3) Note: The .v file in /RTL_SOURCE contains the free IP from Xilinx, so to run it you need to add the . /Xilinx_IP/ip folder into Vivado 2019.1 along with the .v file.<br>
